@@ -5,4 +5,4 @@ while True:
   leds.set_color("RIGHT", "RED")
   time.sleep(1)
   leds.set_color("RIGHT", "GREEN")
-time.sleep(1)
+  time.sleep(1)
